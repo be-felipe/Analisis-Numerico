@@ -1,0 +1,13 @@
+1.Para representar un número infinito en un numero finito de bits,
+se debe colocar el número 1 en todos los bits del exponente y el número 0 en 
+todos los del significado, y dependiendo del primero bit será infinito negativo o positivo
+2.El redondeo consiste en llevar un numero al más cercano terminado en cero, redondear es
+sustituir un numero por el mas próximo. En cambio, el recorte sin importar que decenas,
+centenas, unidades de mil etc. dependiendo de cuantos dígitos, este será recortado sin 
+ningún tipo de aproximación.
+3. 	signo   Exponente        Mantisa
+	0       11111111   00000000000000000000000
+	1       11111111   00000000000000000000000
+4. 00111110110011001100110011001101
+6. El tipo de dato básico de R y Python es de precisión doble
+7.La representación hexadecimal del número 9.4 es igual a 5E
