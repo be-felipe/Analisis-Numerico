@@ -10,7 +10,7 @@ coeficientesDerivada=c()     #Coeficientes derivando el polinomio
 resultado=c()
 res=0
 j=n-1
-x=3 ##coeficientes derivada
+x=3 
 
 
 
